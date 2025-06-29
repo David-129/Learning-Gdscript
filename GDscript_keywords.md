@@ -1,5 +1,5 @@
 ```gdscript
-# 📘 GDScript Keywords for Beginners
+# 📘 GDScript Keywords
 # Each keyword has:
 # Purpose: What it's used for
 # Usage: How to use it correctly
