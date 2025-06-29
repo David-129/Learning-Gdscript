@@ -1,2 +1,2 @@
 # Learning-Gdscript
-this repo may improve ur coding skill (only for gdscript)
+🚀 This repo may improve your GDScript skill — fast & real-world style.
